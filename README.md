@@ -1,7 +1,7 @@
 ###  Olá! 👋
 <div align="left">
-   <p>🔭 Trabalhando com React.JS e Node.</p>
-   <p>🌱Estudando para ser o melhor dev da minha rua.</p>
+   <p>🔭 Trabalhando com React.JS, Java e Node.</p>
+  
    <p>😄Pronomes: ele/dele.</p>        
 </div>
 
